@@ -1,0 +1,13 @@
+C:\Users\adams\source\repos\DM_State\DM_State\bin\Debug\netcoreapp3.1\DM_State.exe
+C:\Users\adams\source\repos\DM_State\DM_State\bin\Debug\netcoreapp3.1\DM_State.deps.json
+C:\Users\adams\source\repos\DM_State\DM_State\bin\Debug\netcoreapp3.1\DM_State.runtimeconfig.json
+C:\Users\adams\source\repos\DM_State\DM_State\bin\Debug\netcoreapp3.1\DM_State.runtimeconfig.dev.json
+C:\Users\adams\source\repos\DM_State\DM_State\bin\Debug\netcoreapp3.1\DM_State.dll
+C:\Users\adams\source\repos\DM_State\DM_State\bin\Debug\netcoreapp3.1\DM_State.pdb
+C:\Users\adams\source\repos\DM_State\DM_State\obj\Debug\netcoreapp3.1\DM_State.csprojAssemblyReference.cache
+C:\Users\adams\source\repos\DM_State\DM_State\obj\Debug\netcoreapp3.1\DM_State.AssemblyInfoInputs.cache
+C:\Users\adams\source\repos\DM_State\DM_State\obj\Debug\netcoreapp3.1\DM_State.AssemblyInfo.cs
+C:\Users\adams\source\repos\DM_State\DM_State\obj\Debug\netcoreapp3.1\DM_State.csproj.CoreCompileInputs.cache
+C:\Users\adams\source\repos\DM_State\DM_State\obj\Debug\netcoreapp3.1\DM_State.dll
+C:\Users\adams\source\repos\DM_State\DM_State\obj\Debug\netcoreapp3.1\DM_State.pdb
+C:\Users\adams\source\repos\DM_State\DM_State\obj\Debug\netcoreapp3.1\DM_State.genruntimeconfig.cache
